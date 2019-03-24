@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/chenming/anaconda3/bin/python",
+    "python.formatting.provider": "yapf"
+}
